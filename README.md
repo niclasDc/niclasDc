@@ -6,13 +6,13 @@ National University of Colombia.
 
 ## About me 
 
-I'm a computer science in progress with focus in data analysis and web developer. I'm passionate about data, it is interesting to understand the world through it. Currently, I'm learning about:
+I'm currently enroll at the National University of Colombia working on my Computer Science degree with focus in data analysis and web development. I'm passionate about data, I find it interesting the way you can understand the world through data. Currently, I'm digging into:
 
-- Machine learning.
-- IA.
-- Packages about data analysis.
+- Machine learning models and algorithms
+- Artificial intelligence
+- Packages for data analysis and data management
 
-I'm interested to collaborate in new projects to learn and acquire knowledge in this field.
+I'm looking foward to colaborate in new projects to learn and acquire knowledge and experienced in this field.
 
 
 ## Social media :mailbox_with_no_mail:
